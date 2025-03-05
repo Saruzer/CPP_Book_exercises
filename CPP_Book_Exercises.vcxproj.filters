@@ -21,10 +21,16 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exercises\Chapter_4\Exercise_1.h">
+    <ClCompile Include="Exercises\Chapter_5\Exercise_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exercises\Chapter_4\Exercise_2.h">
+    <ClCompile Include="Exercises\Chapter_5\Exercise_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercises\Chapter_5\Exercise_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercises\Chapter_5\Exercise_5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Exercises\Chapter_4\Exercise_1.cpp">
@@ -36,14 +42,38 @@
     <ClCompile Include="Exercises\Chapter_4\Exercise_3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Exercises\Chapter_4\Exercise_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="Exercises\Chapter_4\Exercise_5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exercises\Chapter_4\Exercise_4.cpp">
+    <ClCompile Include="Exercises\Chapter_5\Exercise_6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercises\Chapter_5\Exercise_7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Exercises\Chapter_5\Exercise_1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_5\Exercise_3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_5\Exercise_4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_5\Exercise_5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_4\Exercise_1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_4\Exercise_2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="Exercises\Chapter_4\Exercise_3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -51,6 +81,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Exercises\Chapter_4\Exercise_5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_5\Exercise_6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_5\Exercise_7.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

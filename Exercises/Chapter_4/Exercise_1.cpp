@@ -1,7 +1,9 @@
-#include "Exercise_1.h"
 #include <iostream>
-
-void Ch4::Ex1_main()
+#include "Exercise_1.h"
+namespace Ch4
 {
-	std::cout << "Hello world!\n";
+	void Ex1_main()
+	{
+		std::cout << "Hello world!\n";
+	}
 }

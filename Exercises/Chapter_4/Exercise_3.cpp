@@ -1,5 +1,6 @@
 #include "Exercise_3.h"
 #include <iostream>
+
 enum Enum1
 {
 	val1 = 0,
