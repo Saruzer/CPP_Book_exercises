@@ -33,5 +33,25 @@
     <ClCompile Include="Exercises\Chapter_4\Exercise_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Exercises\Chapter_4\Exercise_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercises\Chapter_4\Exercise_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercises\Chapter_4\Exercise_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exercises\Chapter_4\Exercise_3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_4\Exercise_4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercises\Chapter_4\Exercise_5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -128,11 +128,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Exercises\Chapter_4\Exercise_5.cpp" />
     <ClCompile Include="Exercises\Chapter_4\Exercise_1.cpp" />
     <ClCompile Include="Exercises\Chapter_4\Exercise_1.h" />
     <ClCompile Include="Exercises\Chapter_4\Exercise_2.cpp" />
     <ClCompile Include="Exercises\Chapter_4\Exercise_2.h" />
+    <ClCompile Include="Exercises\Chapter_4\Exercise_3.cpp" />
+    <ClCompile Include="Exercises\Chapter_4\Exercise_4.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exercises\Chapter_4\Exercise_4.h" />
+    <ClInclude Include="Exercises\Chapter_4\Exercise_3.h" />
+    <ClInclude Include="Exercises\Chapter_4\Exercise_5.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
